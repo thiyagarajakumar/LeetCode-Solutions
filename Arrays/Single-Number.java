@@ -1,5 +1,4 @@
 import java.util.HashSet;
-
 class Solution {
     public int singleNumber(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
