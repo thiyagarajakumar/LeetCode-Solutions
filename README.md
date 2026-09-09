@@ -3,5 +3,11 @@
 
 A collection of my coding solutions and problem-solving practice.
 
-No solutions tracked yet. Solved problems will appear here automatically.
+## LeetCode Topics
+
+### Array
+
+| Number | Problem Name | Difficulty | Language |
+| --- | --- | --- | --- |
+| 15 | [3Sum](./17-Sorting/15-3sum.java) | Medium | Java |
 <!-- CODING-PLATFORM-END -->
