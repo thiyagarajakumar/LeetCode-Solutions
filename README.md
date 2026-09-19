@@ -5,15 +5,9 @@ A collection of my coding solutions and problem-solving practice.
 
 ## LeetCode Topics
 
-### Math
+### Array
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 371 | [Sum of Two Integers](./18-Math/371-Sum-Of-Two-Integers.java) | Medium | Java |
-
-### Two Pointers
-
-| Number | Problem Name | Difficulty | Language |
-| --- | --- | --- | --- |
-| 5 | [Longest Palindromic Substring](./19-Manacher/5-Longest-Palindromic-Substring.java) | Medium | Java |
+| 46 | [Permutations](./15-Backtracking/46-PERMUTATIONS.java) | Medium | Java |
 <!-- CODING-PLATFORM-END -->
