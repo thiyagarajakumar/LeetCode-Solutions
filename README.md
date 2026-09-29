@@ -11,9 +11,9 @@ A collection of my coding solutions and problem-solving practice.
 | --- | --- | --- | --- |
 | 46 | [Permutations](./15-Backtracking/46-PERMUTATIONS.java) | Medium | Java |
 
-### Math
+### Dynamic Programming
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 509 | [Fibonacci Number](./Math/509-FIBONACCI-NUMBER.java) | Easy | Java |
+| 509 | [Fibonacci Number](./16-Dynamic-Programming/509-Fibonacci-Number.java) | Easy | Java |
 <!-- CODING-PLATFORM-END -->
