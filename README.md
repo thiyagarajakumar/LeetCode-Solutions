@@ -15,7 +15,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 70 | [Climbing Stairs](./16-Dynamic-Programming/70-Climbing-Stairs.java) | Easy | Java |
+| 70 | [Climbing Stairs](./16-Dynamic-Programming/70-Climbing-Stairs.java) | Easy | Javafrjrfjr |
 | 509 | [Fibonacci Number](./16-Dynamic-Programming/509-Fibonacci-Number.java) | Easy | Java |
 | 746 | [Min Cost Climbing Stairs](./16-Dynamic-Programming/746-Min-Cost-Climbing-Stairs.java) | Easy | Java |
 <!-- CODING-PLATFORM-END -->
