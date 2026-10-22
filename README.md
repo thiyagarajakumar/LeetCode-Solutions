@@ -35,13 +35,7 @@ A collection of my coding solutions and problem-solving practice.
 | 0746 | [Min Cost Climbing Stairs](./16-Dynamic-Programming/746-Min-Cost-Climbing-Stairs.java) |
 | 0821 | [Shortest Distance to a Character](./02-Strings/Shortest-Distance-To-A-Character.java) |
 
-### Hash Table
 
-| Number | Problem Name |
-| --- | --- |
-| 0013 | [Roman to Integer](./02-Strings/Roman-To-Integer.java) |
-| 0242 | [Valid Anagram](./02-Strings/Valid-Anagram.java) |
-| 0389 | [Find the Difference](./02-Strings/Find-The-Difference.java) |
 
 ### Math
 
