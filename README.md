@@ -7,30 +7,7 @@ A collection of my coding solutions and problem-solving practice.
 
 
 
-### Backtracking
 
-| Number | Problem Name | Difficulty | Language |
-| --- | --- | --- | --- |
-| 0039 | [Combination Sum](#) | Medium | java |
-| 0040 | [Combination Sum II](#) | Medium | java |
-| 0046 | [Permutations](./15-Backtracking/46-PERMUTATIONS.java) | Medium | java |
-| 0077 | [Combinations](#) | Medium | java |
-| 0078 | [Subsets](#) | Medium | Java |
-| 0216 | [Combination Sum III](#) | Medium | java |
-| 0980 | [Unique Paths III](#) | Hard | Java |
-
-### Binary Search
-
-| Number | Problem Name | Difficulty | Language |
-| --- | --- | --- | --- |
-| 0004 | [Median of Two Sorted Arrays](./01-Arrays/MedianOfTwoSortedArrays) | Hard | Java |
-| 0035 | [Search Insert Position](./01-Arrays/Search-Insert-Position.java) | Easy | Java |
-| 0069 | [Sqrt(x)](#) | Easy | Java |
-| 0167 | [Two Sum II - Input Array Is Sorted](#) | Medium | Java |
-| 0268 | [Missing Number](./01-Arrays/Missing-Number.java) | Easy | Java |
-| 0349 | [Intersection of Two Arrays](./01-Arrays/Intersection-Of-Two-Arrays.java) | Easy | Java |
-| 0704 | [Binary Search](#) | Easy | Java |
-| 2529 | [Maximum Count of Positive Integer and Negative Integer](#) | Easy | Java |
 
 ### Binary Search Tree
 
