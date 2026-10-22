@@ -55,6 +55,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty |
 | --- | --- | --- |
+| 0020 | [Valid Parentheses](./02-Strings/20-Valid-Parentheses.java) | Easy |
 | 0058 | [Length of Last Word](./02-Strings/Length-Of-Last-Word.java) | Easy |
 
 ### Two Pointers
